@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THEGATEKEEPER1
-- 👀 I’m interested in ...hacking
+- 👀 I’m interested in ...hacking & programming
 - 🌱 I’m currently learning ...hacking
-- 💞️ I’m looking to collaborate on ...hacking
+- 💞️ I’m looking to collaborate on ...programming & hacking
 - 📫 How to reach me ...
 
 <!---
